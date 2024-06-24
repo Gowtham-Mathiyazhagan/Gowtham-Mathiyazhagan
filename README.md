@@ -14,9 +14,9 @@
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gowtham-mathiyazhagan-4b222423b/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/view=cm&fs=1&to=gowthammathi07@gmail.com)
 
-- ⚡ Fun fact: I can drive Aeropline
-
-
+- ⚡Fun fact: I can drive Aeropline
+- [To view resume click here](https://drive.google.com/file/d/1rzgPnpRiHabwqlpvLz0bUtB_HzWfcqTC/view?usp=drive_link)
+  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
